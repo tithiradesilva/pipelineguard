@@ -12,7 +12,7 @@ The project demonstrates how a data pipeline can be operated as a reliable servi
 
 **Azure Data Lake Storage Gen2 → Azure Data Factory → Azure Databricks Serverless → PySpark → ADLS Gen2**
 
-> Architecture diagram coming soon.
+> Architecture Diagram
 
 ![Missing input failure](images/architecturediagram.png)
 
