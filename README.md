@@ -14,6 +14,8 @@ The project demonstrates how a data pipeline can be operated as a reliable servi
 
 > Architecture diagram coming soon.
 
+![Missing input failure](images/architecturediagram.png)
+
 ### Technology Stack
 
 * **Azure Data Lake Storage Gen2** — Raw and processed data storage
